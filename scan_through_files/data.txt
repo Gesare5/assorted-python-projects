@@ -1,0 +1,50 @@
+../coreyshafer/Matplotlib/datas.csv../MOCK_DATA.csv../user_emails.csv../wordCloud.py../reverse_integer.ipynb../updated_user_emails.csv../firstnotebook.ipynb../directory.py../regex.py../read.csv../working_with_regex.py../number_guesser.py../quiz_game.py../PythonPrograms/script.py../dsintro/dataframe_data_structure.ipynb../prewitt/ic_polygon.png../prewitt/matrix.ipynb../prewitt/einstein.jpg../store_management/userRegistration.csv../store_management/UI.py../csdojo_ds_intro/sample_data.csv../csdojo_ds_intro/countries.csv../csdojo_ds_intro/data_analysis.ipynb../csdojo_ds_intro/data+visualization+with+python.ipynb../tax/compound.ipynb../tax/tax_chart.ipynb../scan through files/main.py../scan through files/main.ipynb../scan through files/data.txt../loganalysis/syslog.log../loganalysis/user_emails.csv../loganalysis/loganalysis.py../loganalysis/csv_to_html.py../loganalysis/ticky_check.py../blackjack/main.py../coreyshafer/Pandas/survey_results_public.csv../coreyshafer/Pandas/modified.json../coreyshafer/Pandas/dataframes.ipynb../coreyshafer/Pandas/so_survey_2022.pdf../coreyshafer/Pandas/read_write_different_files.ipynb../coreyshafer/Pandas/datetime_timeseries.ipynb../coreyshafer/Pandas/README_2022.txt../coreyshafer/Pandas/survey_results_schema.csv../coreyshafer/Pandas/modified.tsv../coreyshafer/Pandas/ETH_1h.csv../coreyshafer/Pandas/modified.csv../coreyshafer/Matplotlib/datagen.py../coreyshafer/Matplotlib/views.csv../coreyshafer/Matplotlib/data.csv../coreyshafer/Matplotlib/charts.ipynb../coreyshafer/Matplotlib/datas.csv../MOCK_DATA.csv../user_emails.csv../wordCloud.py../reverse_integer.ipynb../updated_user_emails.csv../firstnotebook.ipynb../directory.py../regex.py../read.csv../working_with_regex.py../number_guesser.py../quiz_game.py../PythonPrograms/script.py../dsintro/dataframe_data_structure.ipynb../prewitt/ic_polygon.png../prewitt/matrix.ipynb../prewitt/einstein.jpg../store_management/userRegistration.csv../store_management/UI.py../csdojo_ds_intro/sample_data.csv../csdojo_ds_intro/countries.csv../csdojo_ds_intro/data_analysis.ipynb../csdojo_ds_intro/data+visualization+with+python.ipynb../tax/compound.ipynb../tax/tax_chart.ipynb../scan through files/main.py../scan through files/main.ipynb../scan through files/data.txt../loganalysis/syslog.log../loganalysis/user_emails.csv../loganalysis/loganalysis.py../loganalysis/csv_to_html.py../loganalysis/ticky_check.py../blackjack/main.py../coreyshafer/Pandas/survey_results_public.csv../coreyshafer/Pandas/modified.json../coreyshafer/Pandas/dataframes.ipynb../coreyshafer/Pandas/so_survey_2022.pdf../coreyshafer/Pandas/read_write_different_files.ipynb../coreyshafer/Pandas/datetime_timeseries.ipynb../coreyshafer/Pandas/README_2022.txt../coreyshafer/Pandas/survey_results_schema.csv../coreyshafer/Pandas/modified.tsv../coreyshafer/Pandas/ETH_1h.csv../coreyshafer/Pandas/modified.csv../coreyshafer/Matplotlib/datagen.py../coreyshafer/Matplotlib/views.csv../coreyshafer/Matplotlib/data.csv../coreyshafer/Matplotlib/charts.ipynb../coreyshafer/Matplotlib/datas.csv../MOCK_DATA.csv
+../user_emails.csv
+../wordCloud.py
+../reverse_integer.ipynb
+../updated_user_emails.csv
+../firstnotebook.ipynb
+../directory.py
+../regex.py
+../read.csv
+../working_with_regex.py
+../number_guesser.py
+../quiz_game.py
+../PythonPrograms/script.py
+../dsintro/dataframe_data_structure.ipynb
+../prewitt/ic_polygon.png
+../prewitt/matrix.ipynb
+../prewitt/einstein.jpg
+../store_management/userRegistration.csv
+../store_management/UI.py
+../csdojo_ds_intro/sample_data.csv
+../csdojo_ds_intro/countries.csv
+../csdojo_ds_intro/data_analysis.ipynb
+../csdojo_ds_intro/data+visualization+with+python.ipynb
+../tax/compound.ipynb
+../tax/tax_chart.ipynb
+../scan through files/main.py
+../scan through files/main.ipynb
+../scan through files/data.txt
+../loganalysis/syslog.log
+../loganalysis/user_emails.csv
+../loganalysis/loganalysis.py
+../loganalysis/csv_to_html.py
+../loganalysis/ticky_check.py
+../blackjack/main.py
+../coreyshafer/Pandas/survey_results_public.csv
+../coreyshafer/Pandas/modified.json
+../coreyshafer/Pandas/dataframes.ipynb
+../coreyshafer/Pandas/so_survey_2022.pdf
+../coreyshafer/Pandas/read_write_different_files.ipynb
+../coreyshafer/Pandas/datetime_timeseries.ipynb
+../coreyshafer/Pandas/README_2022.txt
+../coreyshafer/Pandas/survey_results_schema.csv
+../coreyshafer/Pandas/modified.tsv
+../coreyshafer/Pandas/ETH_1h.csv
+../coreyshafer/Pandas/modified.csv
+../coreyshafer/Matplotlib/datagen.py
+../coreyshafer/Matplotlib/views.csv
+../coreyshafer/Matplotlib/data.csv
+../coreyshafer/Matplotlib/charts.ipynb
+../coreyshafer/Matplotlib/datas.csv
