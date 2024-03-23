@@ -46,4 +46,24 @@ def main():
 main()
 
 
+def check_sentence(text):
+    result = re.search(r"^[A-Z][a-z ]*[.?!]$", text)
+    return result
 
+print(check_sentence("Is this is a sentence?")) # True
+print(check_sentence("is this is a sentence?")) # False
+print(check_sentence("Hello")) # False
+print(check_sentence("1-2-3-GO!")) # False
+print(check_sentence("A star is born.")) # True    
+
+
+def check_web_address(text):
+  pattern = r"[A-Za-z0-9_\.\-\+]*[\.][a-zA-Z]*$"
+  result = re.search(pattern, text)
+  return result 
+
+print(check_web_address("gmail.com")) # True
+print(check_web_address("www@google")) # False
+print(check_web_address("www.Coursera.org")) # True
+print(check_web_address("web-address.com/homepage")) # False
+print(check_web_address("My_Favorite-Blog.US")) # True
