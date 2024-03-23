@@ -45,7 +45,7 @@ def main():
 
 main()
 
-
+# valid sentence regex
 def check_sentence(text):
     result = re.search(r"^[A-Z][a-z ]*[.?!]$", text)
     return result
@@ -56,7 +56,7 @@ print(check_sentence("Hello")) # False
 print(check_sentence("1-2-3-GO!")) # False
 print(check_sentence("A star is born.")) # True    
 
-
+# valid email regex
 def check_web_address(text):
   pattern = r"[A-Za-z0-9_\.\-\+]*[\.][a-zA-Z]*$"
   result = re.search(pattern, text)
