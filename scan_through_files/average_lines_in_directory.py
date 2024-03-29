@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 
 path_to_directory = "./sample_directory"
