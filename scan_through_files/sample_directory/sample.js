@@ -3,14 +3,14 @@ function sample() {
     palette: {
       primary: {
         main: '#ee572e',
-        lighter: '#e6e6e6',
+        light: '#e6e6e6',
         hover: '#ffffff',
       },
-      primaryDark: {
+      primaryRed: {
         main: '#ee432d',
       },
-      primaryPurple: {
-        main: '#703770',
+      primaryBlue: {
+        main: '#701ddd',
       },
       secondary: {
         main: '#22cb7f',
